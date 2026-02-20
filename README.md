@@ -21,3 +21,12 @@ This project demonstrates the basics of Git and GitHub version control.
 - Staging and committing changes
 - Connecting local and remote repositories
 - Writing meaningful commit messages
+
+## Project Structure
+- README.md → Documentation
+- app.py → Basic Python feature implementation
+
+## Future Improvements
+- Add branching practice
+- Implement multiple features
+- Practice pull requests
