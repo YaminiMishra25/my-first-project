@@ -12,3 +12,12 @@ This repository is created to learn Git and GitHub fundamentals.
 
 ## Author
 Yamini Mishra
+
+## Project Purpose
+This project demonstrates the basics of Git and GitHub version control.
+
+## Skills Practiced
+- Repository initialization
+- Staging and committing changes
+- Connecting local and remote repositories
+- Writing meaningful commit messages
